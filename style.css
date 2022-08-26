@@ -47,3 +47,7 @@ h2 {
 #footer ul {
   list-style-type: none;
 }
+#search-container{
+padding: 50px;
+text-align:center;
+}
